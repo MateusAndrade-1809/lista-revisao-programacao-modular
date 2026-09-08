@@ -7,7 +7,6 @@ Cada exercicio deve ser feito em uma branch separada:
 - `questao-01-fatorial`
 - `questao-02-vetores-condicoes`
 - `questao-03-intersecao-vetores`
-- `questao-04-intersecao-vetores`
 - `questao-04-uniao-vetores`
 - `questao-05-pesquisa-habitantes`
 - `questao-06-correcao-provas`
